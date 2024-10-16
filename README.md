@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-prev: backend on financial exchanges/payments(crypto)
+prev: backend on financial exchanges/payments(crypto), interested in databases.
 
-interests: in databases, operating systems and distributed systems.
-
-writing: hailelagi.com
+writing: hailelagi.com, email hailelagi[at]gmail.com
